@@ -1,0 +1,9 @@
+{
+    "exp_name": "full_100k",
+    "cohort_number": 100,
+    "cohort_size": 10000,
+    "param_sets": 100000,
+    "every1k": 1,
+    "interv_under_eq": "09",
+    "multiplier": 16
+  }

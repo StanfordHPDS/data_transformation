@@ -1,0 +1,26 @@
+,measure,type,value
+0,total_n,demographics,733337.0
+1,male,demographics,325346.0
+2,age_mean,demographics,59.91
+3,age_std,demographics,15.12
+4,diabetes,diagnoses,181264.0
+5,hypertension,diagnoses,440588.0
+6,CKD_code,diagnoses,60227.0
+7,Hispanic or Latino,ethnicity,55019.0
+8,Unknown,ethnicity,199700.0
+9,Not Hispanic or Latino,ethnicity,478618.0
+10,G4,g_stage,4481.0
+11,G2,g_stage,321436.0
+12,G1,g_stage,323867.0
+13,G3b,g_stage,21398.0
+14,G3a,g_stage,61126.0
+15,G5,g_stage,1029.0
+16,White,race,577708.0
+17,Unknown,race,87198.0
+18,Native Hawaiian or Other Pacific Islander,race,956.0
+19,Black or African American,race,46770.0
+20,Asian,race,15388.0
+21,Multiple,race,74.0
+22,Middle Eastern or Northern African,race,12.0
+23,Other,race,3140.0
+24,American Indian or Alaska Native,race,2091.0

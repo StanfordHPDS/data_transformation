@@ -1,0 +1,49 @@
+{
+    "cohort": {    
+        "n": null,
+        "init_age": 30,
+        "male": 0.5,
+        "black": 0.5,
+        "init_egfr": {
+            "mu": 108.8,
+            "sigma": 15.5
+        },
+        "max_age": 101
+    },
+    "model": {
+        "interv_under_eq": "09",
+        "slopes": null,
+        "death_HRs": null,
+        "file_paths": {
+        "female_LT_path": "parameter_files/LT_all_females_2019_Table03.csv",
+        "male_LT_path": "parameter_files/LT_all_males_2019_Table02.csv",
+        "slopes_path": "parameter_files/slopes_hoerger.csv",
+        "slopes_original_path": "parameter_files/slopes_hoerger_original.csv",
+        "slopes_order_path": "parameter_files/slopes_relative_order.csv",
+        "HRs_path": "parameter_files/CKD_mort_HR_Fox2012.csv",
+        "calib_targets_path": "cohort/calibration_targets",
+        "hypertension_incid_path": "parameter_files/ht_incid_Dannenberg1987.csv",
+        "diabetes_incid_path": "parameter_files/diab_incid_CDC.csv"
+        },
+        "interv_params": {
+            "diag": {
+                "freq": {
+                    "G3a": 0.29,
+                    "G3b": 0.56,
+                    "G4": 0.83,
+                    "G5": 1
+                },
+                "eff": 0.2
+            },
+            "nephr": {
+                "freq": {
+                    "G3a": 0.04,
+                    "G3b": 0.16,
+                    "G4": 0.46,
+                    "G5": 0.67
+                },
+                "eff": 0.6
+            }
+        }
+    }
+}
