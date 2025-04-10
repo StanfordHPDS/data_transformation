@@ -1,8 +1,8 @@
 ## Introduction
 
-This repository contains code for the paper titled "A microsimulation-based framework for mitigating societal bias in primary care data" by Agata Foryciarz, Fernando Alarid-Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams and Sherri Rose.
+This repository contains code for the paper "A microsimulation-based framework for mitigating societal bias in primary care data" by Agata Foryciarz, Fernando Alarid-Escudero, Gabriela Basel, Marika Cusick, Robert L. Phillips, Andrew Bazemore, Alyce S. Adams, and Sherri Rose (2025), [medRxiv:10.1101/2025.04.03.25325206](https://www.medrxiv.org/content/10.1101/2025.04.03.25325206v1).
 
-The code generates eGFR trajectories across a person's lifetime, conditional on comorbidities, age, CKD stage and sex.
+The code generates eGFR trajectories across a person's lifetime, conditional on comorbidities, age, CKD stage, and sex.
 
 ## Environment setup
 
